@@ -1,5 +1,5 @@
-/**
  # File - Logistic-Extract.cpp
+ 
  # Brief Scholastic Demonstration of Static Binary Analysis & Heuristic Mapping
  * 
  * THEORY: Embedded systems interact with hardware via Memory-Mapped I/O (MMIO).
