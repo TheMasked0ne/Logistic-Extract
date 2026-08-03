@@ -1,11 +1,11 @@
  # File - Logistic-Extract.cpp
  
  # Brief Scholastic Demonstration of Static Binary Analysis & Heuristic Mapping
- * 
+ 
  * THEORY: Embedded systems interact with hardware via Memory-Mapped I/O (MMIO).
  * This program implements a 'Signature-Based Heuristic' to reconstruct high-level 
  * logic from raw binary blobs by identifying known peripheral base addresses.
- */
+   
  # Logistic-Extract
 Embedded systems interact with hardware via Memory-Mapped I/O (MMIO).  * This program implements a 'Signature-Based Heuristic' to reconstruct high-level extracted logic from raw binary blobs by identifying known peripheral base addresses.
 
